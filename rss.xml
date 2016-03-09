@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NYCgaby]]></title>
+        <description><![CDATA[NYCgaby]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 14:48:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This site]]></title>
+            <description><![CDATA[<article><h1>This site</h1><p>This site is dedicated to sharing a dynamic city experience as well as offering a new perspective on the city living. I will offer great short posts reporting on good spots and personal experiences in NYC and abroad.</p></article>]]></description>
+            <link>undefinedthis-site/index.html</link>
+            <guid isPermaLink="false">9261b5b0-90c9-4abf-bec5-65f1f7781d7f</guid>
+            <pubDate>Wed, 09 Mar 2016 14:47:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
