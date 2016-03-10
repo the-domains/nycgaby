@@ -1,6 +1,6 @@
 name: NYCgaby
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.34654
 typography_spectrum: 0.9930580446962267
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#b2b4af'
     - '#fddcad'
     - '#645d55'
-  brandStrength: 0.1875
-  lightness: 0.29697781382128596
+  brandStrength: 0.3125
+  lightness: 0.5
   saturation: 0.5173579398542643
-  rhythmicContrast: 0.6055261332076043
+  rhythmicContrast: 0.5
 purpose: []
